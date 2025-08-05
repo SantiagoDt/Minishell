@@ -7,7 +7,7 @@
 #include <sys/wait.h>
 #include <fcntl.h>
 #include <unistd.h>
-#include "parser.h"
+#include "parser/parser.h"
 #include <signal.h>
 
 #define READ_END    0
